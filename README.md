@@ -2,7 +2,7 @@ Learning Python!
 
 run tests with;
 
-    python -m unittest test_name
+    python -m unittest test_name.py
 
 name is optional
 
