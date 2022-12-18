@@ -1,8 +1,8 @@
-max = 20
-min = 1
-fizz = 3
-buzz = 5
-output = ""
+max: int = 20
+min: int = 1
+fizz: int = 3
+buzz: int = 5
+output: str = ""
 
 for x in range(min, max+1):
     output = ""
